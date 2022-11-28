@@ -1,0 +1,5 @@
+DO180 > test
+git add .
+git commit -m DO180
+git status
+echo DO180
